@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-[{"name":"SpringCloud","path":"api/tags/SpringCloud.json","slug":"SpringCloud","count":2},{"name":"新闻","path":"api/tags/新闻.json","slug":"新闻","count":1},{"name":"Java","path":"api/tags/Java.json","slug":"Java","count":1},{"name":"Spring","path":"api/tags/Spring.json","slug":"Spring","count":1}]
-=======
-[{"name":"SpringCloud","path":"api/tags/SpringCloud.json","slug":"SpringCloud","count":2},{"name":"新闻","path":"api/tags/新闻.json","slug":"新闻","count":1},{"name":"BIO","path":"api/tags/BIO.json","slug":"BIO","count":1},{"name":"NIO","path":"api/tags/NIO.json","slug":"NIO","count":1},{"name":"Java","path":"api/tags/Java.json","slug":"Java","count":1},{"name":"Spring","path":"api/tags/Spring.json","slug":"Spring","count":1}]
->>>>>>> 9eb1465 (second)
